@@ -1,7 +1,6 @@
-**# RockSmash**
+# RockSmash
+**a game where your goal is to smash as many rocks as possible in a give amount of time**
 
-a game where your goal is to smash as many rocks as possible in a give amount of time
-----------------------------
 to play the game without installing python, unzip the file named unzipme than navigate through this path
 
 `unZipme > unZipme > dist > main > main.exe`
