@@ -6,5 +6,8 @@ to play the game without installing python, unzip the file named unzipme than na
 
 `unZipme > unZipme > dist > main > main.exe`
 
+or run the python script
+`python .py`
+
 you may have to scroll down a bit to see main.exe.
 you can run the exe file on any computer without installing python.
